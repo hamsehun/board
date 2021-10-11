@@ -7,7 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
 import java.util.List;
-
+//원격에서 수정됨 2
 @Repository
 @RequiredArgsConstructor
 public class BoardDAO {
